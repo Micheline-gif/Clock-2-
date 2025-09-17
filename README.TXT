@@ -33,4 +33,6 @@ Note: This project does not implement adequate handling of errors.
 28. The print method doesnt return anything because its void and the getStatus method returns int. 
 29. The type of object created are: square, triangle and circle
 30. roof.changeSize, roof.moveHorizontal, roof.moveVertical and roof.makeVisible
-
+31. Yes, the internal method call draw()
+32. 2
+ 
