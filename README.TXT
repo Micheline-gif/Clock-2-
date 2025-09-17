@@ -26,3 +26,6 @@ Note: This project does not implement adequate handling of errors.
 
 21. It starts at 00:00 because by default the values of hours and minutes are both zero.
 23. 60 times 
+24. NumberDisplay digit = new NumberDisplay(10);
+25. Rectangle window = new Rectangle(5, 10);
+
