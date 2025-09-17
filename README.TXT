@@ -35,4 +35,5 @@ Note: This project does not implement adequate handling of errors.
 30. roof.changeSize, roof.moveHorizontal, roof.moveVertical and roof.makeVisible
 31. Yes, the internal method call draw()
 32. 2
- 
+33. When you use modulo operator with negative numbers the result keeps the same sign as the first number. 
+34. All the possible results are: 0, 1, 2, 3, 4, -1, -2, -3, -4
