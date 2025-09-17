@@ -28,4 +28,6 @@ Note: This project does not implement adequate handling of errors.
 23. 60 times 
 24. NumberDisplay digit = new NumberDisplay(10);
 25. Rectangle window = new Rectangle(5, 10);
-
+26. It creates a ClockDisplay object with a starting time and you put the hours and minutes in the object. It then creates a NumberDisplay object for hours with a limit of 24 and another NumberDisplay object for minutes with a limit of 60.
+27. The difference between them is one as a fixed start time and the other you can customize yourself. The similarities is that both have a NumberDisplay object for hours(24) and minutes(60).
+  
